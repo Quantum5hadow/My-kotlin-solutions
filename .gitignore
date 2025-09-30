@@ -1,0 +1,28 @@
+# kotlin/jvm
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ide
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+build/
+
+# gradle
+.gradle/
+build/
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# misc
+*.swp
+*.swo
+*~

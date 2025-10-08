@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-7 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+8 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 7 days"*
+> *"the secret of getting ahead is getting started — day 8 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 7 days
-📝 problems solved   : 158 unique problems
+🔥 current streak    : 8 days
+📝 problems solved   : 159 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1488. Avoid Flood in The City
-Day          : 7
-Date         : 2025-10-07
+Problem      : 2300. Successful Pairs of Spells and Potions
+Day          : 8
+Date         : 2025-10-08
 */
 
 class Solution {
@@ -144,7 +144,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | milestone | date | days |
 | --- | --- | --- |
 | 🎯 first commit | oct 1,2025 | 1 |
-| ⚡ 7 days and counting | oct 07,2025 | 7 |
+| ⚡ 8 days and counting | oct 08,2025 | 8 |
 
 
 
@@ -153,7 +153,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 ## 📈 the grind
 
 ```
-oct 2025    ████████████████████░░░░░░░░░░  21 problems
+oct 2025    █████████████████████░░░░░░░░░  22 problems
 nov 2025    █████████████████████████████░  29 problems
 dec 2025    █████████████████████████████░  30 problems
 jan 2026    ██████████████████████████████  32 problems

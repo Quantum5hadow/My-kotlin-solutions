@@ -1,7 +1,7 @@
 /*
 LeetCode ID : PixelPrince
 Profile     : https://leetcode.com/u/PixelPrince/
-Submission  : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/solutions/7578542/maximum-frequency-of-an-element-after-pe-b3va
+Submission  : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/7578557/final-value-of-variable-after-performing-jhva
 
 Problem     : 2011. Final Value of Variable After Performing Operations
 

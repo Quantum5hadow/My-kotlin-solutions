@@ -1,0 +1,41 @@
+
+/*
+LeetCode ID : PixelPrince
+Profile     : https://leetcode.com/u/PixelPrince/
+Submission  : https://leetcode.com/problems/simple-bank-system/solutions/7577163/simple-bank-system-by-pixelprince-wusu
+Problem     : 20423. Simple Bank System
+
+
+Day         : 27
+Date        : 2025-10-27
+*/
+class Bank(private val accounts: LongArray) {
+    private fun validate(account: Int, money: Long, withdraw: Boolean): Boolean {
+        return account < accounts.size && (!withdraw || accounts[account] >= money)
+    }
+
+    fun transfer(account1: Int, account2: Int, money: Long): Boolean {
+        if (validate(account1 - 1, money, true) && validate(account2 - 1, 0, false)) {
+            accounts[account1 - 1] -= money
+            accounts[account2 - 1] += money
+            return true
+        }
+        return false
+    }
+
+    fun deposit(account: Int, money: Long): Boolean {
+        if (validate(account - 1, money, false)) {
+            accounts[account - 1] += money
+            return true
+        }
+        return false
+    }
+
+    fun withdraw(account: Int, money: Long): Boolean {
+        if (validate(account - 1, money, true)) {
+            accounts[account - 1] -= money
+            return true
+        }
+        return false
+    }
+}

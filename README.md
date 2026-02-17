@@ -22,9 +22,11 @@
 
 ## 🧠 about
 
-hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow) — a college student from kurnool who decided to stop making excuses and just start grinding leetcode every single day.
+hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll start tomorrow." i just start.
 
-this repo is my daily leetcode journal. every day i pick a problem,solve it in kotlin,and push it here. no skipping,no excuses. started on **october 1,2025** and haven't looked back since.
+this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
+
+140+ days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
 > *"most people overestimate what they can do in a day and underestimate what they can do in 140 days"*
 

@@ -7,3 +7,6 @@ Day          : 157
 Date         : 2026-03-06
 */
 
+class Solution{
+    fun checkOnesSegment(s:String)=!("01" in s)
+}

@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-140+ days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+157 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 140 days"*
+> *"small daily improvements over time lead to stunning results — 157 days in"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 140+ days
-📝 problems solved   : 127 unique problems
+🔥 current streak    : 157 days
+📝 problems solved   : 144 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -87,16 +87,16 @@ for example:
 
 ## 👀 sample solution
 
-here's what a typical solution looks like — **day 140,binary watch**:
+here's what a typical solution looks like — **day 157,check if binary string has at most one segment of ones**:
 
 ```kotlin
 /*
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 401. Binary Watch
-Day          : 140
-Date         : 2026-02-17
+Problem      : 1784. Check if Binary String Has at Most One Segment of Ones
+Day          : 157
+Date         : 2026-03-06
 */
 
 class Solution {
@@ -142,23 +142,27 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 ## 🏆 milestones
 
 | milestone | date | days |
-|:----------|:-----|:----:|
+| --- | --- | --- |
 | 🎯 first commit | oct 1,2025 | 1 |
 | 🔥 30 day streak | oct 30,2025 | 30 |
 | 💪 50 problems | nov 19,2025 | 50 |
-| 🏅 100 day streak | jan 8,2026 | 100 |
-| ⚡ 140+ and counting | feb 17,2026 | 140 |
+| 🏅 100 day streak | jan 08,2026 | 100 |
+| ⚡ 150 day streak | feb 27,2026 | 150 |
+| ⚡ 157 days and counting | mar 06,2026 | 157 |
+
+
 
 ---
 
 ## 📈 the grind
 
 ```
-oct 2025  ████████████████████████████░░░  28 problems
-nov 2025  ██████████████████████████████░  30 problems
-dec 2025  ██████████████████████████████░  31 problems
-jan 2026  ██████████████████████████████░  31 problems
-feb 2026  █████████████████░░░░░░░░░░░░░░  17 problems (so far)
+oct 2025    ██████████████████░░░░░░░░░░░░  19 problems
+nov 2025    █████████████████████████████░  29 problems
+dec 2025    █████████████████████████████░  30 problems
+jan 2026    ██████████████████████████████  32 problems
+feb 2026    ██████████████████████████████  28 problems
+mar 2026    █████░░░░░░░░░░░░░░░░░░░░░░░░░  6 problems (in progress)
 ```
 
 ---

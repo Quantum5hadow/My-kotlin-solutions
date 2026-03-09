@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-159 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+160 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"champions aren't born in the gym, they're born in the dark at day 159 when nobody's watching"*
+> *"you don't rise to the level of your goals, you fall to the level of your systems — 160 day system"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 159 days
-📝 problems solved   : 146 unique problems
+🔥 current streak    : 160 days
+📝 problems solved   : 147 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -87,16 +87,16 @@ for example:
 
 ## 👀 sample solution
 
-here's what a typical solution looks like — **day 159,find unique binary string**:
+here's what a typical solution looks like — **day 160,find all possible stable binary arrays i**:
 
 ```kotlin
 /*
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1980. Find Unique Binary String
-Day          : 159
-Date         : 2026-03-08
+Problem      : 3129. Find All Possible Stable Binary Arrays I
+Day          : 160
+Date         : 2026-03-09
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 159 days and counting | mar 08,2026 | 159 |
+| ⚡ 160 days and counting | mar 09,2026 | 160 |
 
 
 
@@ -162,7 +162,7 @@ nov 2025    ██████████████████████�
 dec 2025    █████████████████████████████░  30 problems
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
-mar 2026    ███████░░░░░░░░░░░░░░░░░░░░░░░  8 problems (in progress)
+mar 2026    ████████░░░░░░░░░░░░░░░░░░░░░░  9 problems (in progress)
 ```
 
 ---

@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-161 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+162 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 161 days"*
+> *"the secret of getting ahead is getting started — day 162 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 161 days
-📝 problems solved   : 148 unique problems
+🔥 current streak    : 162 days
+📝 problems solved   : 149 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -87,16 +87,16 @@ for example:
 
 ## 👀 sample solution
 
-here's what a typical solution looks like — **day 161,find all possible stable binary arrays ii**:
+here's what a typical solution looks like — **day 162,complement of base 10 integer**:
 
 ```kotlin
 /*
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3130. Find All Possible Stable Binary Arrays II
-Day          : 161
-Date         : 2026-03-10
+Problem      : 1009. Complement of Base 10 Integer
+Day          : 162
+Date         : 2026-03-11
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 161 days and counting | mar 10,2026 | 161 |
+| ⚡ 162 days and counting | mar 11,2026 | 162 |
 
 
 
@@ -162,7 +162,7 @@ nov 2025    ██████████████████████�
 dec 2025    █████████████████████████████░  30 problems
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
-mar 2026    █████████░░░░░░░░░░░░░░░░░░░░░  10 problems (in progress)
+mar 2026    ██████████░░░░░░░░░░░░░░░░░░░░  11 problems (in progress)
 ```
 
 ---

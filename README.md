@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-25 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+170 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"discipline is doing it even when you don't feel like it — 25 days prove it"*
+> *"consistency is what transforms average into excellence — 170 days strong"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 25 days
-📝 problems solved   : 161 unique problems
+🔥 current streak    : 170 days
+📝 problems solved   : 162 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1716. Calculate Money in Leetcode Bank
-Day          : 25
-Date         : 2025-10-25
+Problem      : 3212. Count Submatrices With Equal Frequency of X and Y
+Day          : 170
+Date         : 2026-03-19
 */
 
 class Solution {
@@ -144,7 +144,11 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | milestone | date | days |
 | --- | --- | --- |
 | 🎯 first commit | oct 1,2025 | 1 |
-| ⚡ 25 days and counting | oct 25,2025 | 25 |
+| 🔥 30 day streak | oct 30,2025 | 30 |
+| 💪 50 problems | nov 19,2025 | 50 |
+| 🏅 100 day streak | jan 08,2026 | 100 |
+| ⚡ 150 day streak | feb 27,2026 | 150 |
+| ⚡ 170 days and counting | mar 19,2026 | 170 |
 
 
 
@@ -158,7 +162,7 @@ nov 2025    ██████████████████████�
 dec 2025    █████████████████████████████░  30 problems
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
-mar 2026    █████████████████░░░░░░░░░░░░░  18 problems (in progress)
+mar 2026    ██████████████████░░░░░░░░░░░░  19 problems (in progress)
 ```
 
 ---

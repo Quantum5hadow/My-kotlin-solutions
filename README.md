@@ -94,7 +94,7 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1886. Determine Whether Matrix Can Be Obtained By Rotation
+Problem      : 3643. Flip Square Submatrix Vertically
 Day          : 172
 Date         : 2026-03-21
 */

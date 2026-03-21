@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-171 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+172 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"small daily improvements over time lead to stunning results — 171 days in"*
+> *"discipline is doing it even when you don't feel like it — 172 days prove it"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 171 days
-📝 problems solved   : 163 unique problems
+🔥 current streak    : 172 days
+📝 problems solved   : 164 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3567. Minimum Absolute Difference in Sliding Submatrix
-Day          : 171
-Date         : 2026-03-20
+Problem      : 1886. Determine Whether Matrix Can Be Obtained By Rotation
+Day          : 172
+Date         : 2026-03-21
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 171 days and counting | mar 20,2026 | 171 |
+| ⚡ 172 days and counting | mar 21,2026 | 172 |
 
 
 
@@ -162,7 +162,7 @@ nov 2025    ██████████████████████�
 dec 2025    █████████████████████████████░  30 problems
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
-mar 2026    ███████████████████░░░░░░░░░░░  20 problems (in progress)
+mar 2026    ████████████████████░░░░░░░░░░  21 problems (in progress)
 ```
 
 ---

@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-183 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+184 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"the secret of getting ahead is getting started — day 183 and still going"*
+> *"consistency is what transforms average into excellence — 184 days strong"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 183 days
-📝 problems solved   : 175 unique problems
+🔥 current streak    : 184 days
+📝 problems solved   : 176 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 2751. Robot Collisions
-Day          : 183
-Date         : 2026-04-01
+Problem      : 3418. Maximum Amount of Money Robot Can Earn
+Day          : 184
+Date         : 2026-04-02
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 183 days and counting | apr 01,2026 | 183 |
+| ⚡ 184 days and counting | apr 02,2026 | 184 |
 
 
 
@@ -163,7 +163,7 @@ dec 2025    ██████████████████████�
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
-apr 2026    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1 problems (in progress)
+apr 2026    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2 problems (in progress)
 ```
 
 ---

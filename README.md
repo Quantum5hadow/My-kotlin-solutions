@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-193 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+194 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"discipline is doing it even when you don't feel like it — 193 days prove it"*
+> *"champions aren't born in the gym, they're born in the dark at day 194 when nobody's watching"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 193 days
-📝 problems solved   : 186 unique problems
+🔥 current streak    : 194 days
+📝 problems solved   : 187 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3741. Minimum Distance Between Three Equal Elements II
-Day          : 193
-Date         : 2026-04-11
+Problem      : 1320. Minimum Distance to Type a Word Using Two Fingers
+Day          : 194
+Date         : 2026-04-12
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 193 days and counting | apr 11,2026 | 193 |
+| ⚡ 194 days and counting | apr 12,2026 | 194 |
 
 
 
@@ -163,7 +163,7 @@ dec 2025    ██████████████████████�
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
-apr 2026    ████████████░░░░░░░░░░░░░░░░░░  12 problems (in progress)
+apr 2026    █████████████░░░░░░░░░░░░░░░░░  13 problems (in progress)
 ```
 
 ---

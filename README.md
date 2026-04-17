@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-196 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+199 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 196 days"*
+> *"small daily improvements over time lead to stunning results — 199 days in"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 196 days
-📝 problems solved   : 189 unique problems
+🔥 current streak    : 199 days
+📝 problems solved   : 191 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 2463. Minimum Total Distance Traveled
-Day          : 196
-Date         : 2026-04-14
+Problem      : 3761. Minimum Absolute Distance Between Mirror Pairs
+Day          : 199
+Date         : 2026-04-17
 */
 
 class Solution {
@@ -148,7 +148,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💪 50 problems | nov 19,2025 | 50 |
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
-| ⚡ 196 days and counting | apr 14,2026 | 196 |
+| ⚡ 199 days and counting | apr 17,2026 | 199 |
 
 
 
@@ -163,7 +163,7 @@ dec 2025    ██████████████████████�
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
-apr 2026    ███████████████░░░░░░░░░░░░░░░  15 problems (in progress)
+apr 2026    █████████████████░░░░░░░░░░░░░  17 problems (in progress)
 ```
 
 ---

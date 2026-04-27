@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-208 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+209 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"champions aren't born in the gym, they're born in the dark at day 208 when nobody's watching"*
+> *"you don't rise to the level of your goals, you fall to the level of your systems — 209 day system"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 208 days
-📝 problems solved   : 200 unique problems
+🔥 current streak    : 209 days
+📝 problems solved   : 201 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1559. Detect Cycles in 2D Grid
-Day          : 208
-Date         : 2026-04-26
+Problem      : 1391. Check if There is a Valid Path in a Grid
+Day          : 209
+Date         : 2026-04-27
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 208 days and counting | apr 26,2026 | 208 |
+| ⚡ 209 days and counting | apr 27,2026 | 209 |
 
 
 
@@ -164,7 +164,7 @@ dec 2025    ██████████████████████�
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
-apr 2026    ██████████████████████████░░░░  26 problems (in progress)
+apr 2026    ███████████████████████████░░░  27 problems (in progress)
 ```
 
 ---

@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-211 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+212 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"the secret of getting ahead is getting started — day 211 and still going"*
+> *"consistency is what transforms average into excellence — 212 days strong"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 211 days
-📝 problems solved   : 203 unique problems
+🔥 current streak    : 212 days
+📝 problems solved   : 204 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3225. Maximum Score From Grid Operations
-Day          : 211
-Date         : 2026-04-29
+Problem      : 3742. Maximum Path Score in a Grid
+Day          : 212
+Date         : 2026-04-30
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 211 days and counting | apr 29,2026 | 211 |
+| ⚡ 212 days and counting | apr 30,2026 | 212 |
 
 
 
@@ -164,7 +164,7 @@ dec 2025    ██████████████████████�
 jan 2026    ██████████████████████████████  32 problems
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
-apr 2026    █████████████████████████████░  29 problems (in progress)
+apr 2026    ██████████████████████████████  30 problems (in progress)
 ```
 
 ---

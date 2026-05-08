@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-219 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+220 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"consistency is what transforms average into excellence — 219 days strong"*
+> *"small daily improvements over time lead to stunning results — 220 days in"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 219 days
-📝 problems solved   : 212 unique problems
+🔥 current streak    : 220 days
+📝 problems solved   : 213 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3660. Jump Game IX
-Day          : 219
-Date         : 2026-05-07
+Problem      : 3629. Minimum Jumps to Reach End via Prime Teleportation
+Day          : 220
+Date         : 2026-05-08
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 219 days and counting | may 07,2026 | 219 |
+| ⚡ 220 days and counting | may 08,2026 | 220 |
 
 
 
@@ -165,7 +165,7 @@ jan 2026    ██████████████████████�
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
-may 2026    ███████░░░░░░░░░░░░░░░░░░░░░░░  8 problems (in progress)
+may 2026    ████████░░░░░░░░░░░░░░░░░░░░░░  9 problems (in progress)
 ```
 
 ---

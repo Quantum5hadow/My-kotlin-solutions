@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-223 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+224 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"you don't rise to the level of your goals, you fall to the level of your systems — 223 day system"*
+> *"most people overestimate what they can do in a day and underestimate what they can do in 224 days"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 223 days
-📝 problems solved   : 216 unique problems
+🔥 current streak    : 224 days
+📝 problems solved   : 217 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 2553. Separate the Digits in an Array
-Day          : 223
-Date         : 2026-05-11
+Problem      : 1665. Minimum Initial Energy to Finish Tasks
+Day          : 224
+Date         : 2026-05-12
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 223 days and counting | may 11,2026 | 223 |
+| ⚡ 224 days and counting | may 12,2026 | 224 |
 
 
 
@@ -165,7 +165,7 @@ jan 2026    ██████████████████████�
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
-may 2026    ███████████░░░░░░░░░░░░░░░░░░░  12 problems (in progress)
+may 2026    ████████████░░░░░░░░░░░░░░░░░░  13 problems (in progress)
 ```
 
 ---

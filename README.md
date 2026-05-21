@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-232 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+233 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"the secret of getting ahead is getting started — day 232 and still going"*
+> *"consistency is what transforms average into excellence — 233 days strong"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 232 days
-📝 problems solved   : 224 unique problems
+🔥 current streak    : 233 days
+📝 problems solved   : 225 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 2657. Find the Prefix Common Array of Two Arrays
-Day          : 232
-Date         : 2026-05-20
+Problem      : 3043. Find the Length of the Longest Common Prefix
+Day          : 233
+Date         : 2026-05-21
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 232 days and counting | may 20,2026 | 232 |
+| ⚡ 233 days and counting | may 21,2026 | 233 |
 
 
 
@@ -165,7 +165,7 @@ jan 2026    ██████████████████████�
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
-may 2026    ███████████████████░░░░░░░░░░░  20 problems (in progress)
+may 2026    ████████████████████░░░░░░░░░░  21 problems (in progress)
 ```
 
 ---

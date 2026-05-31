@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-242 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+243 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"discipline is doing it even when you don't feel like it — 242 days prove it"*
+> *"champions aren't born in the gym, they're born in the dark at day 243 when nobody's watching"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 242 days
-📝 problems solved   : 234 unique problems
+🔥 current streak    : 243 days
+📝 problems solved   : 235 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3161. Block Placement Queries
-Day          : 242
-Date         : 2026-05-30
+Problem      : 2126. Destroying Asteroids
+Day          : 243
+Date         : 2026-05-31
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 242 days and counting | may 30,2026 | 242 |
+| ⚡ 243 days and counting | may 31,2026 | 243 |
 
 
 
@@ -165,7 +165,7 @@ jan 2026    ██████████████████████�
 feb 2026    ██████████████████████████████  28 problems
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
-may 2026    █████████████████████████████░  30 problems (in progress)
+may 2026    ██████████████████████████████  31 problems (in progress)
 ```
 
 ---

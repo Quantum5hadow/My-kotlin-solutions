@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-248 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+249 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"small daily improvements over time lead to stunning results — 248 days in"*
+> *"discipline is doing it even when you don't feel like it — 249 days prove it"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 248 days
-📝 problems solved   : 240 unique problems
+🔥 current streak    : 249 days
+📝 problems solved   : 241 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3753. Total Waviness of Numbers in Range II
-Day          : 248
-Date         : 2026-06-05
+Problem      : 2574. Left and Right Sum Differences
+Day          : 249
+Date         : 2026-06-06
 */
 
 class Solution {
@@ -149,7 +149,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🏅 100 day streak | jan 08,2026 | 100 |
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
-| ⚡ 248 days and counting | jun 05,2026 | 248 |
+| ⚡ 249 days and counting | jun 06,2026 | 249 |
 
 
 
@@ -166,7 +166,7 @@ feb 2026    ██████████████████████�
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
 may 2026    ██████████████████████████████  31 problems
-jun 2026    █████░░░░░░░░░░░░░░░░░░░░░░░░░  5 problems (in progress)
+jun 2026    ██████░░░░░░░░░░░░░░░░░░░░░░░░  6 problems (in progress)
 ```
 
 ---

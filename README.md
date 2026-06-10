@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-252 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+253 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 252 days"*
+> *"the secret of getting ahead is getting started — day 253 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 252 days
-📝 problems solved   : 245 unique problems
+🔥 current streak    : 253 days
+📝 problems solved   : 246 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3689. Maximum Total Subarray Value I
-Day          : 252
-Date         : 2026-06-09
+Problem      : 3691. Maximum Total Subarray Value II
+Day          : 253
+Date         : 2026-06-10
 */
 
 class Solution {
@@ -150,7 +150,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
-| ⚡ 252 days and counting | jun 09,2026 | 252 |
+| ⚡ 253 days and counting | jun 10,2026 | 253 |
 
 
 
@@ -167,7 +167,7 @@ feb 2026    ██████████████████████�
 mar 2026    ██████████████████████████████  31 problems
 apr 2026    ██████████████████████████████  30 problems
 may 2026    ██████████████████████████████  31 problems
-jun 2026    ██████████░░░░░░░░░░░░░░░░░░░░  10 problems (in progress)
+jun 2026    ███████████░░░░░░░░░░░░░░░░░░░  11 problems (in progress)
 ```
 
 ---

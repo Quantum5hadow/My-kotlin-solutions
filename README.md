@@ -94,7 +94,7 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3689. Maximum Total Subarray Value I
+Problem      : 1840. Maximum Building Height
 Day          : 263
 Date         : 2026-06-20
 */

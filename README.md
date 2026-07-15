@@ -94,7 +94,7 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3336. Find the Number of Subsequences With Equal GCD
+Problem      : 3658. GCD of Odd and Even Sums
 Day          : 288
 Date         : 2026-07-15
 */

@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-289 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+291 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"consistency is what transforms average into excellence — 289 days strong"*
+> *"discipline is doing it even when you don't feel like it — 291 days prove it"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 289 days
-📝 problems solved   : 281 unique problems
+🔥 current streak    : 291 days
+📝 problems solved   : 282 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3867. Sum of GCD of Formed Pairs
-Day          : 289
-Date         : 2026-07-16
+Problem      : 1979. Find Greatest Common Divisor of Array
+Day          : 291
+Date         : 2026-07-18
 */
 
 class Solution {
@@ -150,7 +150,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
-| ⚡ 289 days and counting | jul 16,2026 | 289 |
+| ⚡ 291 days and counting | jul 18,2026 | 291 |
 
 
 
@@ -168,7 +168,7 @@ mar 2026    ██████████████████████�
 apr 2026    ██████████████████████████████  30 problems
 may 2026    ██████████████████████████████  31 problems
 jun 2026    ██████████████████████████████  30 problems
-jul 2026    ███████████████░░░░░░░░░░░░░░░  16 problems (in progress)
+jul 2026    ████████████████░░░░░░░░░░░░░░  17 problems (in progress)
 ```
 
 ---

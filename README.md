@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-299 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+302 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"champions aren't born in the gym, they're born in the dark at day 299 when nobody's watching"*
+> *"the secret of getting ahead is getting started — day 302 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 299 days
-📝 problems solved   : 291 unique problems
+🔥 current streak    : 302 days
+📝 problems solved   : 292 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 628. Maximum Product of Three Numbers
-Day          : 299
-Date         : 2026-07-26
+Problem      : 3518. Smallest Palindromic Rearrangement II
+Day          : 302
+Date         : 2026-07-29
 */
 
 class Solution {
@@ -150,7 +150,8 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | ⚡ 150 day streak | feb 27,2026 | 150 |
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
-| ⚡ 299 days and counting | jul 26,2026 | 299 |
+| 👑 300 day streak | jul 27,2026 | 300 |
+| ⚡ 302 days and counting | jul 29,2026 | 302 |
 
 
 
@@ -168,7 +169,7 @@ mar 2026    ██████████████████████�
 apr 2026    ██████████████████████████████  30 problems
 may 2026    ██████████████████████████████  31 problems
 jun 2026    ██████████████████████████████  30 problems
-jul 2026    █████████████████████████░░░░░  26 problems (in progress)
+jul 2026    ██████████████████████████░░░░  27 problems (in progress)
 ```
 
 ---

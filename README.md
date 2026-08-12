@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-315 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+316 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"most people overestimate what they can do in a day and underestimate what they can do in 315 days"*
+> *"the secret of getting ahead is getting started — day 316 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 315 days
-📝 problems solved   : 307 unique problems
+🔥 current streak    : 316 days
+📝 problems solved   : 308 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
-Day          : 315
-Date         : 2026-08-11
+Problem      : 2958. Length of Longest Subarray With at Most K Frequency
+Day          : 316
+Date         : 2026-08-12
 */
 
 class Solution {
@@ -151,7 +151,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
-| ⚡ 315 days and counting | aug 11,2026 | 315 |
+| ⚡ 316 days and counting | aug 12,2026 | 316 |
 
 
 
@@ -170,7 +170,7 @@ apr 2026    ██████████████████████�
 may 2026    ██████████████████████████████  31 problems
 jun 2026    ██████████████████████████████  30 problems
 jul 2026    ██████████████████████████████  31 problems
-aug 2026    ██████████░░░░░░░░░░░░░░░░░░░░  11 problems (in progress)
+aug 2026    ███████████░░░░░░░░░░░░░░░░░░░  12 problems (in progress)
 ```
 
 ---

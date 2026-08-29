@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-331 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+333 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"consistency is what transforms average into excellence — 331 days strong"*
+> *"discipline is doing it even when you don't feel like it — 333 days prove it"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 331 days
-📝 problems solved   : 324 unique problems
+🔥 current streak    : 333 days
+📝 problems solved   : 325 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 3720. Lexicographically Smallest Permutation Greater Than Target
-Day          : 331
-Date         : 2026-08-27
+Problem      : 2948. Make Lexicographically Smallest Array by Swapping Elements
+Day          : 333
+Date         : 2026-08-29
 */
 
 class Solution {
@@ -151,7 +151,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
-| ⚡ 331 days and counting | aug 27,2026 | 331 |
+| ⚡ 333 days and counting | aug 29,2026 | 333 |
 
 
 
@@ -170,7 +170,7 @@ apr 2026    ██████████████████████�
 may 2026    ██████████████████████████████  31 problems
 jun 2026    ██████████████████████████████  30 problems
 jul 2026    ██████████████████████████████  31 problems
-aug 2026    ███████████████████████████░░░  28 problems (in progress)
+aug 2026    ████████████████████████████░░  29 problems (in progress)
 ```
 
 ---

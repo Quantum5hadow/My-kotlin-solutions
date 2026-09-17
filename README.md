@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-351 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+352 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"the secret of getting ahead is getting started — day 351 and still going"*
+> *"consistency is what transforms average into excellence — 352 days strong"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 351 days
-📝 problems solved   : 343 unique problems
+🔥 current streak    : 352 days
+📝 problems solved   : 344 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1621. Number of Sets of K Non-Overlapping Line Segments
-Day          : 351
-Date         : 2026-09-16
+Problem      : 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
+Day          : 352
+Date         : 2026-09-17
 */
 
 class Solution {
@@ -151,7 +151,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
-| ⚡ 351 days and counting | sep 16,2026 | 351 |
+| ⚡ 352 days and counting | sep 17,2026 | 352 |
 
 
 
@@ -171,7 +171,7 @@ may 2026    ██████████████████████�
 jun 2026    ██████████████████████████████  30 problems
 jul 2026    ██████████████████████████████  31 problems
 aug 2026    ██████████████████████████████  31 problems
-sep 2026    ████████████████░░░░░░░░░░░░░░  16 problems (in progress)
+sep 2026    █████████████████░░░░░░░░░░░░░  17 problems (in progress)
 ```
 
 ---

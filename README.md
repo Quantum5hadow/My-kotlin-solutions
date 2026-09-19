@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-353 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+354 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"small daily improvements over time lead to stunning results — 353 days in"*
+> *"discipline is doing it even when you don't feel like it — 354 days prove it"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 353 days
-📝 problems solved   : 346 unique problems
+🔥 current streak    : 354 days
+📝 problems solved   : 347 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1520. Maximum Number of Non-Overlapping Substrings
-Day          : 353
-Date         : 2026-09-18
+Problem      : 1401. Circle and Rectangle Overlapping
+Day          : 354
+Date         : 2026-09-19
 */
 
 class Solution {
@@ -151,7 +151,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
-| ⚡ 353 days and counting | sep 18,2026 | 353 |
+| ⚡ 354 days and counting | sep 19,2026 | 354 |
 
 
 
@@ -171,7 +171,7 @@ may 2026    ██████████████████████�
 jun 2026    ██████████████████████████████  30 problems
 jul 2026    ██████████████████████████████  31 problems
 aug 2026    ██████████████████████████████  31 problems
-sep 2026    ███████████████████░░░░░░░░░░░  19 problems (in progress)
+sep 2026    ████████████████████░░░░░░░░░░  20 problems (in progress)
 ```
 
 ---

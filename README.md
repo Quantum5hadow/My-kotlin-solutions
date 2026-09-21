@@ -26,16 +26,16 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-354 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+356 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"discipline is doing it even when you don't feel like it — 354 days prove it"*
+> *"you don't rise to the level of your goals, you fall to the level of your systems — 356 day system"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 354 days
+🔥 current streak    : 356 days
 📝 problems solved   : 347 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 1401. Circle and Rectangle Overlapping
-Day          : 354
-Date         : 2026-09-19
+Problem      : 3524. Find X Value of Array I
+Day          : 356
+Date         : 2026-09-21
 */
 
 class Solution {
@@ -151,7 +151,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 🚀 200 day streak | apr 18,2026 | 200 |
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
-| ⚡ 354 days and counting | sep 19,2026 | 354 |
+| ⚡ 356 days and counting | sep 21,2026 | 356 |
 
 
 

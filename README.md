@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-366 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+365 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"consistency is what transforms average into excellence — 366 days strong"*
+> *"the secret of getting ahead is getting started — day 365 and still going"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 366 days
-📝 problems solved   : 357 unique problems
+🔥 current streak    : 365 days
+📝 problems solved   : 358 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 20. Valid Parentheses
-Day          : 366
-Date         : 2026-10-01
+Problem      : 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
+Day          : 365
+Date         : 2026-09-30
 */
 
 class Solution {
@@ -152,7 +152,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
 | 🌟 1 year streak | sep 30,2026 | 365 |
-| ⚡ 366 days and counting | oct 01,2026 | 366 |
+| ⚡ 365 days and counting | sep 30,2026 | 365 |
 
 
 
@@ -172,7 +172,7 @@ may 2026    ██████████████████████�
 jun 2026    ██████████████████████████████  30 problems
 jul 2026    ██████████████████████████████  31 problems
 aug 2026    ██████████████████████████████  31 problems
-sep 2026    █████████████████████████████░  29 problems
+sep 2026    ██████████████████████████████  30 problems
 oct 2026    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1 problems (in progress)
 ```
 

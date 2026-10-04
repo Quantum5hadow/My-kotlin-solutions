@@ -6,8 +6,8 @@
 
 [![kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![leetcode](https://img.shields.io/badge/LeetCode-PixelPrince-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PixelPrince/)
-[![knight](https://img.shields.io/badge/Knight%20🏇-Rating-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PixelPrince/)
-[![problems](https://img.shields.io/badge/problems%20solved-140+-00C853?style=for-the-badge)](#-solution-log)
+[![guardian](https://img.shields.io/badge/Guardian%20🛡️-Rating-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PixelPrince/)
+[![problems](https://img.shields.io/badge/problems%20solved-473+-00C853?style=for-the-badge)](#-solution-log)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 **`discipline > motivation`**
@@ -26,17 +26,17 @@ hey,i'm [**Quantum5hadow**](https://github.com/Quantum5hadow). i don't do "i'll 
 
 this repo is my daily leetcode journal — one problem,every single day,all in kotlin. i pick a topic,go deep on it for a week (divisibility,balanced arrays,stock trading,geometry — whatever catches my eye),and always pair the easy version with the hard one back to back. no cherry-picking easy problems to feel good. if there's a part II,i'm solving it the next day.
 
-367 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
+369 days in and the streak is still alive. not because i'm motivated every morning — i'm not. but discipline hits different when you stop negotiating with yourself.
 
-> *"small daily improvements over time lead to stunning results — 367 days in"*
+> *"champions aren't born in the gym, they're born in the dark at day 369 when nobody's watching"*
 
 ---
 
 ## 📊 stats
 
 ```
-🔥 current streak    : 367 days
-📝 problems solved   : 359 unique problems
+🔥 current streak    : 369 days
+📝 problems solved   : 360 unique problems
 🗓️ started           : october 1,2025
 💻 language          : kotlin (100%)
 🏷️ leetcode id       : PixelPrince
@@ -94,9 +94,9 @@ here's what a typical solution looks like — **day 163,maximize spanning tree s
 LeetCode ID  : PixelPrince
 Profile      : https://leetcode.com/u/PixelPrince/
 Submission   : https://leetcode.com/problems/binary-watch/solutions/...
-Problem      : 22. Generate Parentheses
-Day          : 367
-Date         : 2026-10-02
+Problem      : 678. Valid Parenthesis String
+Day          : 369
+Date         : 2026-10-04
 */
 
 class Solution {
@@ -152,7 +152,7 @@ git clone https://github.com/Quantum5hadow/My-kotlin-solutions.git
 | 💎 250 day streak | jun 07,2026 | 250 |
 | 👑 300 day streak | jul 27,2026 | 300 |
 | 🌟 1 year streak | sep 30,2026 | 365 |
-| ⚡ 367 days and counting | oct 02,2026 | 367 |
+| ⚡ 369 days and counting | oct 04,2026 | 369 |
 
 
 
@@ -173,7 +173,7 @@ jun 2026    ██████████████████████�
 jul 2026    ██████████████████████████████  31 problems
 aug 2026    ██████████████████████████████  31 problems
 sep 2026    ██████████████████████████████  30 problems
-oct 2026    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2 problems (in progress)
+oct 2026    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3 problems (in progress)
 ```
 
 ---
